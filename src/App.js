@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -11,14 +10,16 @@ function App() {
           href="https://github.com/patel1078/second-react-weather-app"
           target="_blank"
         >
-          <a
-            href="https://jinalpatel2424.wixsite.com/portfolio
-"
-            target="_blank"
-          >
-            Portfolio
-          </a>
+          {" "}
           GitHub Repository
+        </a>{" "}
+        And
+        <a
+          href="https://jinalpatel2424.wixsite.com/portfolio
+"
+          target="_blank"
+        >
+          Portfolio
         </a>
       </footer>
     </div>
