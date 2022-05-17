@@ -9,6 +9,7 @@ function App() {
         <a
           href="https://github.com/patel1078/second-react-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           GitHub Repository
@@ -18,6 +19,7 @@ function App() {
           href="https://jinalpatel2424.wixsite.com/portfolio
 "
           target="_blank"
+          rel="noreferrer"
         >
           Portfolio
         </a>
