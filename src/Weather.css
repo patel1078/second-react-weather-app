@@ -1,9 +1,14 @@
+.body {
+  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t39.30808-6/271059357_10165616384055543_5298337671552420249_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ACmLHzm6LiAAX_GQdH8&_nc_ht=scontent-ort2-2.xx&oh=00_AT93rR7ZCoGdeoC6sPOaaVHZCe6Dj2YP49VOlF4g6njAGQ&oe=62938A7B.gif");
+}
+
 .Weather {
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  background-color: blanchedalmond;
 }
 
 h1 {
